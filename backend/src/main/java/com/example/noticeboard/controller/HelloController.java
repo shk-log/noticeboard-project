@@ -10,5 +10,7 @@ public class HelloController {
 	public String hello() {
 		return "서버가 정상적으로 실행!";
 	}
+	
+// git 연동 테스트 
 
 }
